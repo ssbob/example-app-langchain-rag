@@ -1,0 +1,41 @@
+﻿AIHR MVP Employee Record - Jane Doe
+TEXT VERSION
+2024 Holidays
+2024 Holiday allowance = 25 days.
+
+
+2024-01-24 Query for remaining holiday allowance = 25 days.
+
+
+2024-01-25 Holiday request for 2024-03-01 for 5 days.
+
+
+2024-02-01 Holiday approval for 2024-03-01 for 5 days.
+
+
+2024-03-01 Holiday taken for 5 days between 2024-03-01 and 2024-03-05.
+2024 Expenses
+Employee Expense Profile == Employee Level 5 rules.
+
+
+2024-01-15 Expense query for “AWS Summit”.
+
+
+2024-01-16 Expense guidance provided for “AWS Summit”.
+
+
+2024-01-17 Expense report submitted for “AWS Summit” for £500.
+
+
+2024-01-25 Expense report approved for “AWS Summit” for £500 by Mr Supervisor.
+2024 Career
+2024-01-01 Career development plan approved.
+
+
+2024-02-01 Career objective 1.2 complete: Certification acquired for “Google Digital Garage”.
+
+
+2024-03-01 Career objective 2.1 complete: Deliver project X in 2024Q1.
+
+
+2024-03-25 Career objective 3.2 complete: Submit self-assessment for 2024Q1
